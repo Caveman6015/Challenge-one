@@ -12,7 +12,7 @@ There will be a link in the usage section to navigate to the webpage.
 ## Usage
 
 https://caveman6015.github.io/Challenge-one/
-
+![Alttext](assets\images\webpage.jpeg)
 
 ## Credits
 n/a
